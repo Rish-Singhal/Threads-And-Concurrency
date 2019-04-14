@@ -1,0 +1,13 @@
+Normal merge sort works faster than this " concurrent " merge sort..
+
+FOR SAMPLE INPUT :
+10000
+1 2 3 ..... 10000
+
+Time taken by Merge Sort : 0.005943
+Time taken by Concurrent Merge Sort : 0.412374
+Time taken by Multithreaded Merge Sort : 0.412374
+
+
+therefore :
+    multi threaded < normal < concurrent
